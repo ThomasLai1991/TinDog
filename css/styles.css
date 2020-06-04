@@ -15,6 +15,7 @@ p{
 }
 
 
+
 #title{
     background-color: #ff4c68;
     color:#fff;
@@ -138,8 +139,11 @@ i{
     padding:100px;
 }
 .pricing-column{
+   
     padding:3% 2%;
 }
+
+
 
 .price-text{
     font-size: 3rem;
