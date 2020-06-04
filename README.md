@@ -1,2 +1,1 @@
-# TinDog
-A practice website using CSS Bootstrap and Fontawesome
+TinDog Starting Files
